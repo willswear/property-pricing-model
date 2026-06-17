@@ -80,7 +80,7 @@ HTML_LAYOUT = """
 </head>
 <body class="bg-gray-50 font-sans text-gray-900 min-h-screen flex flex-col justify-between">
     <div class="max-w-4xl mx-auto my-10 p-8 bg-white rounded-xl shadow-lg border border-gray-100">
-        <h1 class="text-3xl font-bold text-indigo-900 mb-2">george.</h1>
+        <h1 class="text-3xl font-bold text-indigo-900 mb-2">George</h1>
         <p class="text-gray-500 mb-8">Give George the characteristics of your property in DC. He will return with an estimate daily rate based on Attache's previously sold leases.</p>
         
         <form method="POST" class="grid grid-cols-1 md:grid-cols-2 gap-6">
